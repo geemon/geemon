@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geemon
-- 👀 I’m interested in ... Backend programming, mobile development, hacking and network administration
+- 👀 I’m interested in ... Backend programming, mobile development, cyber security and network administration
 - 🌱 I’m currently learning ... Python for network automation, web development and pentesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
